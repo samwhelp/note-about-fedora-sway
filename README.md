@@ -22,7 +22,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Fedora Sway](https://github.com/samwhelp/fedora-sway-adjustment/tree/main/prototype/main/sway-config/Main) |
+| [Fedora Sway Config](https://github.com/samwhelp/fedora-sway-adjustment/tree/main/prototype/main/sway-config/Main) |
 
 
 
